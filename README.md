@@ -39,7 +39,7 @@ SafeLink est une application qui permet de vérifier la sécurité des sites web
 
 1. Exécutez le script Python :
    ```bash
-   python secure.py
+   python Safelink.py
 ## Personnalisation des thèmes
 
 SafeLink permet de choisir parmi différents thèmes visuels :
