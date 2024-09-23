@@ -109,7 +109,7 @@ root = tk.Tk()
 root.title("Vérificateur de Site - VirusTotal")
 
 # Remplacer l'icône avec un fichier .ico
-root.iconbitmap("C:/Users/pirat/sceuresite/logo.ico")  # Remplace "ton_logo.ico" par le nom de ton fichier .ico
+root.iconbitmap("logo.ico")  #remplacer par votre chemin relatif 
 
 # Menu de sélection de thème
 theme_label = tk.Label(root, text="Choisir un thème :", bg="#282c34", fg="#61afef")
