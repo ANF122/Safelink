@@ -16,7 +16,7 @@ SafeLink est une application qui permet de vérifier la sécurité des sites web
 
 - Python 3.x (si vous exécutez depuis le code source).
 - Une clé API VirusTotal (instructions ci-dessous).
-- Avoir Requests 
+- Avoir Requests ( en mode python ) 
 
 ### Obtenir une clé API VirusTotal
 
